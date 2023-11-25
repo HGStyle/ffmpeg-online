@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="title" content="FFMPEG Online">
+        <meta name="description" content="Wanna use or try FFMPEG without installing anything ? Then this site is for you !">
+        <meta name="og:title" content="FFMPEG Online">
+        <meta name="og:description" content="Wanna use or try FFMPEG without installing anything ? Then this site is for you !">
+        <meta name="twitter:title" content="FFMPEG Online">
+        <meta name="twitter:description" content="Wanna use or try FFMPEG without installing anything ? Then this site is for you !">
+        <title>FFMPEG Online</title>
+        <link rel="stylesheet" type="text/css" href="font/font.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="icon" href="data:;base64,iVBORw0KGgo=">  <!-- Should remove the error "Error 404: /favicon.ico not found" in browsers that loads icons when not asked for some reason -->
+    </head>
+    <body>
+        <h1>FFMPEG Online</h1>
+        <details>
+            <summary>Informations about this tool</summary>
+            <h2>Interface made by HGStyle, hosted by HGStyle, using <a href="https://ffmpegwasm.netlify.app/">the FFMPEG.WASM project</a> released under <a href="https://hgstyle.mit-license.org/">MIT License</a></h2>
+            <h2>Everything is done on your computer, meaning none of your data will be uploaded anywhere. It also means that it runs with your computer limit.</h2>
+            <h3>Use the <a href="https://ffmpeg-online.hgstyle.fr/">stable server [Clermont-Ferrand, France - O2Switch]</a> or the <a href="https://ffmpeg-online.hgstyle.fr/">unstable server [San Francisco, United States - GitHub Pages]</a></h3>
+            <h3>If the output is no more updating, then this page RAM has been exceeded. You should try refreshing the page and trying again, but if the file is too big it just won't work. Sorry, it's not a problem from me, I can't fix it :/</h3>
+        </details><br>
+        <h2 id="nojs">Sorry, you must enable JavaScript to use this tool !</h2>
+        <h2 id="nowasm">Sorry, you must enable WebAssembly to use this tool !</h2>
+        <h2 id="wait" style="display: none">Please wait while your browser downloads necessary scripts...<br>This may take up to a minute.</h2>
+        <h2 id="error" style="display: none"></h2>
+        <div id="ui" style="display: none">
+            <label class="custom-file-upload">
+                Select file(s)
+                <input type="file" id="fileloader" multiple>
+            </label>
+            <input type="button" id="loadfile" value="Load selected file(s)">
+            <br>
+            <select id="fileselect"></select>
+            <input type="button" id="removefile" value="Remove selected file">
+            <input type="button" id="downloadfile" value="Download selected file">
+            <input type="button" id="previewfile" value="Preview selected file">
+            <br>
+            <input type="text" id="command" placeholder="Put the command to be run here without the ffmpeg at the start">
+            <input type="button" id="run" value="Run">
+            <div id="preview-player">
+                <video width="320" height="240" controls controlsList="nodownload" style="display: none">
+                    <source src="" type="">
+                </video>
+                <audio width="320" height="240" controls controlsList="nodownload" style="display: none">
+                    <source src="" type="">
+                </audio>
+                <img src="" style="display: none">
+            </div>
+            <h3 id="returncode"></h3>
+            <pre id="output"></pre>
+        </div>
+    </body>
+    <script src="jslibs/jquery.js"></script>
+    <script src="jslibs/ffmpeg.js"></script>
+    <script src="jslibs/ffutil.js"></script>
+    <script src="jslibs/ext2mime.js"></script>
+    <script src="script.js"></script>
+</html>
