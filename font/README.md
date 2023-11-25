@@ -12,7 +12,7 @@ Then I converted them using a little Python script I made to convert fonts using
 
 Finally I wrote a little CSS file which imports these to CSS. To load the font, just load the CSS file and it'll be done.
 
-WARNING: The default family name for this font isn'y "Ubuntu" or "ubuntu" but "ubuntu.regular" !
+> WARNING: The default family name for this font isn'y "Ubuntu" or "ubuntu" but "ubuntu.regular" !
 
 I release this CSS file in public-domain. I don't care about anyone to use that file. Do what the heck you want with it.
 
