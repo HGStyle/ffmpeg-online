@@ -14,3 +14,5 @@ From where are these libraries comming from ?
 | ext2mime.js | https://ffmpeg-online.hgstyle.fr/jslibs/ext2mime.js |
 
 You can change the version of the files, it should not break things (except if you set ff*.* version to anything below 0.12.0)
+
+Actually ext2mime.js has been made by me to load and parse the mime-db.json file. It is inclued in this project and has the same license.
