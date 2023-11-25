@@ -1,0 +1,118 @@
+
+@font-face {
+	font-family: 'ubuntu.bolditalic';
+	src: url('woff/ubuntu.bold-italic.woff') format('woff'),
+	     url('woff2/ubuntu.bold-italic.woff2') format('woff2'),
+	     url('ttf/ubuntu.bold-italic.ttf') format('ttf'),
+	     url('otf/ubuntu.bold-italic.otf') format('otf'),
+	     url('svg/ubuntu.bold-italic.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.mediumitalic';
+	src: url('woff/ubuntu.medium-italic.woff') format('woff'),
+	     url('woff2/ubuntu.medium-italic.woff2') format('woff2'),
+	     url('ttf/ubuntu.medium-italic.ttf') format('ttf'),
+	     url('otf/ubuntu.medium-italic.otf') format('otf'),
+	     url('svg/ubuntu.medium-italic.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.regular';
+	src: url('woff/ubuntu.regular.woff') format('woff'),
+	     url('woff2/ubuntu.regular.woff2') format('woff2'),
+	     url('ttf/ubuntu.regular.ttf') format('ttf'),
+	     url('otf/ubuntu.regular.otf') format('otf'),
+	     url('svg/ubuntu.regular.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.monobolditalic';
+	src: url('woff/ubuntu.mono-bold-italic.woff') format('woff'),
+	     url('woff2/ubuntu.mono-bold-italic.woff2') format('woff2'),
+	     url('ttf/ubuntu.mono-bold-italic.ttf') format('ttf'),
+	     url('otf/ubuntu.mono-bold-italic.otf') format('otf'),
+	     url('svg/ubuntu.mono-bold-italic.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.lightitalic';
+	src: url('woff/ubuntu.light-italic.woff') format('woff'),
+	     url('woff2/ubuntu.light-italic.woff2') format('woff2'),
+	     url('ttf/ubuntu.light-italic.ttf') format('ttf'),
+	     url('otf/ubuntu.light-italic.otf') format('otf'),
+	     url('svg/ubuntu.light-italic.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.bold';
+	src: url('woff/ubuntu.bold.woff') format('woff'),
+	     url('woff2/ubuntu.bold.woff2') format('woff2'),
+	     url('ttf/ubuntu.bold.ttf') format('ttf'),
+	     url('otf/ubuntu.bold.otf') format('otf'),
+	     url('svg/ubuntu.bold.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.italic';
+	src: url('woff/ubuntu.italic.woff') format('woff'),
+	     url('woff2/ubuntu.italic.woff2') format('woff2'),
+	     url('ttf/ubuntu.italic.ttf') format('ttf'),
+	     url('otf/ubuntu.italic.otf') format('otf'),
+	     url('svg/ubuntu.italic.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.monobold';
+	src: url('woff/ubuntu.mono-bold.woff') format('woff'),
+	     url('woff2/ubuntu.mono-bold.woff2') format('woff2'),
+	     url('ttf/ubuntu.mono-bold.ttf') format('ttf'),
+	     url('otf/ubuntu.mono-bold.otf') format('otf'),
+	     url('svg/ubuntu.mono-bold.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.mono';
+	src: url('woff/ubuntu.mono.woff') format('woff'),
+	     url('woff2/ubuntu.mono.woff2') format('woff2'),
+	     url('ttf/ubuntu.mono.ttf') format('ttf'),
+	     url('otf/ubuntu.mono.otf') format('otf'),
+	     url('svg/ubuntu.mono.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.light';
+	src: url('woff/ubuntu.light.woff') format('woff'),
+	     url('woff2/ubuntu.light.woff2') format('woff2'),
+	     url('ttf/ubuntu.light.ttf') format('ttf'),
+	     url('otf/ubuntu.light.otf') format('otf'),
+	     url('svg/ubuntu.light.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.medium';
+	src: url('woff/ubuntu.medium.woff') format('woff'),
+	     url('woff2/ubuntu.medium.woff2') format('woff2'),
+	     url('ttf/ubuntu.medium.ttf') format('ttf'),
+	     url('otf/ubuntu.medium.otf') format('otf'),
+	     url('svg/ubuntu.medium.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.condensed';
+	src: url('woff/ubuntu.condensed.woff') format('woff'),
+	     url('woff2/ubuntu.condensed.woff2') format('woff2'),
+	     url('ttf/ubuntu.condensed.ttf') format('ttf'),
+	     url('otf/ubuntu.condensed.otf') format('otf'),
+	     url('svg/ubuntu.condensed.svg') format('svg');
+}
+	
+@font-face {
+	font-family: 'ubuntu.monoitalic';
+	src: url('woff/ubuntu.mono-italic.woff') format('woff'),
+	     url('woff2/ubuntu.mono-italic.woff2') format('woff2'),
+	     url('ttf/ubuntu.mono-italic.ttf') format('ttf'),
+	     url('otf/ubuntu.mono-italic.otf') format('otf'),
+	     url('svg/ubuntu.mono-italic.svg') format('svg');
+}
+	
