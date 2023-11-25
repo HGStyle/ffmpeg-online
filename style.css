@@ -1,0 +1,43 @@
+html {
+    background: #888888;
+    font-family: 'ubuntu.regular';
+    font-size: 150%;
+    text-align: center;
+}
+
+input, select {
+    border-radius: 25px;
+    font-family: 'ubuntu.regular';
+    font-size: 100%;
+    background: #bbbbbb;
+    white-space: nowrap;
+    height: 50px;
+    border: 1px solid #000000;
+    padding: 10px;
+    margin: 10px;
+}
+
+input[type=text] {
+    width: 750px;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload {
+    border: 1px solid #000000;
+    display: inline-block;
+    border-radius: 25px;
+    cursor: pointer;
+    background: #bbbbbb;
+    padding: 10px;
+}
+
+pre {
+    text-align: initial;
+    white-space: pre-wrap;
+    font-size: initial;
+    padding-right: 15%;
+    padding-left: 15%;
+}
