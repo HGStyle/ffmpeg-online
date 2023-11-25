@@ -17,3 +17,5 @@ Finally I wrote a little CSS file which imports these to CSS. To load the font, 
 I release this CSS file in public-domain. I don't care about anyone to use that file. Do what the heck you want with it.
 
 The Ubuntu font files, even converted ones, are released under the [Ubuntu Font License](https://ubuntu.com/legal/font-licence) by the [Ubuntu Project](https://ubuntu.com/).
+
+Notice the fact that I use the same fonts and these same files in all my projects (lol).
