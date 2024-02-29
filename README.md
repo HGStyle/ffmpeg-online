@@ -13,4 +13,4 @@ Download the code source of that repository [as ZIP](https://github.com/HGStyle/
 
 Copyright © 2023-until the end of the universe HGStyle.
 
-Files in the `jslibs` directory has been released by different persons from different projects, maybe using a different license: [read this for more info](https://github.com/HGStyle/ffmpeg-online/blob/main/font/README.md).
+Files in the `jslibs` directory has been released by different persons from different projects, maybe using a different license: [read this for more info](https://github.com/HGStyle/ffmpeg-online/blob/main/jslibs/README.MD).
