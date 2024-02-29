@@ -7,12 +7,12 @@ Here is a table of the files at their latest version (not the exact same as in t
 | Filename | Download URL | License | Project Name |
 |---|---|---|---|
 | jquery.js | https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js | MIT License | [jQuery](https://github.com/jquery/jquery) |
-| ffmpeg.js | https://cdn.jsdelivr.net/npm/@ffmpeg/ffmpeg@latest/dist/umd/ffmpeg.js | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
-| 818.ffmpeg.js | https://cdn.jsdelivr.net/npm/@ffmpeg/ffmpeg@latest/dist/umd/814.ffmpeg.js | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
-| ffmpeg-core.min.js | https://cdn.jsdelivr.net/npm/@ffmpeg/core@latest/dist/umd/ffmpeg-core.min.js | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
-| ffmpeg-core.wasm | https://cdn.jsdelivr.net/npm/@ffmpeg/core@latest/dist/umd/ffmpeg-core.wasm | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
-| ffutil.js | https://cdn.jsdelivr.net/npm/@ffmpeg/util@latest/dist/umd/index.js | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
-| mime-db.json | https://cdn.jsdelivr.net/gh/jshttp/mime-db@master/db.json | MIT License | [MIME-DB](https://github.com/jshttp/mime-db) |
+| ffmpeg.js | https://cdn.jsdelivr.net/npm/@ffmpeg/ffmpeg/dist/umd/ffmpeg.js | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
+| 818.ffmpeg.js | https://cdn.jsdelivr.net/npm/@ffmpeg/ffmpeg/dist/umd/814.ffmpeg.js | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
+| ffmpeg-core.min.js | https://cdn.jsdelivr.net/npm/@ffmpeg/core/dist/umd/ffmpeg-core.min.js | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
+| ffmpeg-core.wasm | https://cdn.jsdelivr.net/npm/@ffmpeg/core/dist/umd/ffmpeg-core.wasm | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
+| ffutil.js | https://cdn.jsdelivr.net/npm/@ffmpeg/util/dist/umd/index.js | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
+| mime-db.json | https://cdn.jsdelivr.net/gh/jshttp/mime-db/db.json | MIT License | [MIME-DB](https://github.com/jshttp/mime-db) |
 | ext2mime.js | https://hgstyle.github.io/ffmpeg-online/jslibs/ext2mime.js | MIT License | [FFMPEG-ONLINE](https://github.com/HGStyle/ffmpeg-online) |
 
 Here is the table of the exact files you will find in the repo (except for mime-db.json because its the master branch):
