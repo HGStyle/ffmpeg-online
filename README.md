@@ -9,7 +9,7 @@ You can access to the [stable server (hosted in France at O2Switch)](https://ffm
 
 Download the code source of that repository [as ZIP](https://github.com/HGStyle/ffmpeg-online/archive/refs/heads/main.zip), [as GZIPed TAR](https://github.com/HGStyle/ffmpeg-online/archive/refs/heads/main.tar.gz) or using Git: `git clone https://github.com/HGStyle/ffmpeg-online.git`, then extract the download archive (if you did not used the Git command) and just double click (on Windows and MacOS, Linux users may just need a single click) the file called `index.html`.
 
-## Project released under the [MIT License](https://hgstyle.mit-license.org/) (a.k.a. [Expat License, X11 License or MIT/X License](https://en.wikipedia.org/wiki/MIT_License#Ambiguity_and_variants))
+## Project released under the [MIT License](https://hgstyle.mit-license.org/2023) (a.k.a. [Expat License, X11 License or MIT/X License](https://en.wikipedia.org/wiki/MIT_License#Ambiguity_and_variants))
 
 Copyright © 2023-until the end of the universe HGStyle.
 
