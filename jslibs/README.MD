@@ -31,3 +31,10 @@ Here is the table of the exact files you will find in the repo (except for mime-
 You can change the version of the files, it should not break things (except if you set FFMPEG.WASM version to anything below 0.12.0).
 
 Actually ext2mime.js has been made by me to load and parse the mime-db.json file. It is inclued in this project and has the same license.
+
+NOTE: For multiprocessing support, you must [fulfill these requirements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer#security_requirements) use these links instead:
+
+| Filename | Download URL | License | Project Name |
+|---|---|---|---|
+| ffmpeg-core.min.js | https://cdn.jsdelivr.net/npm/@ffmpeg/core-mt/dist/umd/ffmpeg-core.min.js | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
+| ffmpeg-core.wasm | https://cdn.jsdelivr.net/npm/@ffmpeg/core-mt/dist/umd/ffmpeg-core.wasm | MIT License | [FFMPEG.WASM](https://github.com/ffmpegwasm/ffmpeg.wasm) |
